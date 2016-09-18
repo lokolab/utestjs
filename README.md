@@ -1,8 +1,7 @@
 utestjs
 =======
-**This is development (master) version.<br> For production version (relase) see
-<https://github.com/lokolab/utestjs/tree/v0.0.1>**
-- Version: 0.0.1-dev
+
+- Version: 0.0.1
 - Technologies:
   - JavaScript
 - Compatibility:
